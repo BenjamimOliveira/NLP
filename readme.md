@@ -1,5 +1,5 @@
-Install:
-    - NLTK
-    - SpaCy
-    - TextBlob
-    - CoreNLP
+* Install:
+    * NLTK
+    * SpaCy
+    * TextBlob
+    * CoreNLP
